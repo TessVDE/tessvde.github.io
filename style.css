@@ -68,6 +68,12 @@ margin:auto;
 	margin-left: 400px;
 }
 
+#thumbnail:hover { 
+	border-radius:44px;
+	background-color: white;
+	background-opacity: 2%;
+}
+
 #thumbnail{
 	height: 40px;
 	width: 40px;
